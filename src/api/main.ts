@@ -1,1 +1,3 @@
 // Archivo base
+funcion main() {
+}
